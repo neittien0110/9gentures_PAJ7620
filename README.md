@@ -10,4 +10,8 @@
 - Khoảng cách: chỉ tầm 10 cm
 - Môi trường xung quanh: không quá 100k lux.
 
+- ![1](./images/20230928_233848.jpg)
+- ![2](./images/20230928_233900.jpg)
+- ![3](./images/20230928_233943.jpg)
+- ![4](./images/20230928_233950.jpg)
 - [![youtube](https://i.ytimg.com/vi/RiRkPRtq5-c/maxresdefault.jpg)](https://youtu.be/RiRkPRtq5-c)
